@@ -1,0 +1,11 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+node_modules/
+dist/
+.pytest_cache/
+data/*.db
+backend/data/*.db
+backend/evals/report.json
+backend/evals/report.md
