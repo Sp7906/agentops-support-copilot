@@ -57,3 +57,8 @@ Tools: `get_order`, `check_refund_eligibility`, `create_refund` (above the limit
 
 ## Roadmap
 OpenTelemetry export, LLM-as-judge scoring, multi-turn memory, customer authentication, larger eval set.
+
+## Screenshots
+![Chat](docs/images/chat.png)
+![Approvals](docs/images/approvals.png)
+![Trace](docs/images/trace.png)
